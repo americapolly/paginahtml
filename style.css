@@ -1,0 +1,43 @@
+body {
+    background-color: #bb81ad;
+}
+
+p {
+    color: #ffffff;
+    text-align: center;
+    font-family: calibri;
+}
+
+h1 {
+    color: #eccbd9;
+    text-align: center;
+    font-size: 2.5rem;
+    font-family: Trebuchet MS;
+    margin-top: 20px;
+  
+}
+
+img {
+    display: block;
+    margin: 0 auto;
+    max-width: 100%;
+    height: auto;
+    border-radius:30px 0px;
+    box-shadow: 5px 5px 0px -1px lightpink;
+}
+
+article {
+    max-width: 800px;
+    margin: 0 auto;
+    padding: 20px;
+}
+
+article p {
+    line-height: 1.5;
+    margin-bottom: 20px;
+    font-size: 1.2rem;
+}
+
+article p:first-child {
+    text-indent: 2em;
+}
